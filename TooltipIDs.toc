@@ -1,0 +1,8 @@
+## Interface: 120000
+## Interface-Retail: 120000
+## Title: Tooltip IDs
+## Notes: Shows IDs in all tooltips (WoW 12.0)
+## Author: You
+## Version: 1.2
+
+TooltipIDs.lua
